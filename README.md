@@ -105,3 +105,9 @@ Spring Boot 기반 RESTful API 서버
 - 파일명 기반 저장 구조
 - 썸네일 생성
 - 수정 시 기존 파일 정리
+
+---
+<img width="1193" height="634" alt="시연1" src="https://github.com/user-attachments/assets/60adbb64-ec3a-4c72-b966-5a7297f21d22" />
+<img width="1195" height="631" alt="시연2" src="https://github.com/user-attachments/assets/ebe67e7c-1674-470f-b374-ae6af5a68a2e" />
+<img width="1127" height="626" alt="시연3" src="https://github.com/user-attachments/assets/7419ce81-2b07-4205-859c-e59f6c4faf00" />
+
