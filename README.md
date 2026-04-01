@@ -64,7 +64,6 @@ Spring Boot 기반 RESTful API 서버
 - Querydsl
 - Lombok
 - Gson
-- P6Spy
 - Thumbnailator
 - JJWT 0.11.5
 
