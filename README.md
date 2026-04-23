@@ -36,15 +36,6 @@
 
 ---
 
-## Backend 개요
-
-Spring Boot 기반 RESTful API 서버
-
-- JWT 인증 시스템 구현
-- 게시글 및 인증 요청 도메인 설계
-
----
-
 ## Tech Stack
 
 ### Backend
