@@ -64,19 +64,13 @@
 ### 게시글 (Post)
 - 게시글 CRUD
 - 페이징 처리
-- 이미지 업로드 및 관리
+- 이미지 업로드 및 썸네일 생성
 
 ---
 
 ### 인증 요청 (Verify)
 - 전문가 인증 요청 CRUD
 - 관리자 승인 및 결과 처리
-
----
-
-### 파일 업로드
-- 썸네일 생성
-- 수정 시 기존 파일 정리
 
 ---
 <img width="1193" height="634" alt="시연1" src="https://github.com/user-attachments/assets/60adbb64-ec3a-4c72-b966-5a7297f21d22" />
